@@ -1,0 +1,19 @@
+# Handle line endings automatically
+* text=auto
+
+# Unity lfs
+*.cs diff=csharp
+*.unity binary
+*.asset binary
+*.prefab binary
+*.mat binary
+*.fbx binary
+*.obj binary
+*.jpg binary
+*.png binary
+*.wav binary
+*.mp3 binary
+*.controller binary
+*.sample binary
+*.ttf binary
+*.renderTexture binary
